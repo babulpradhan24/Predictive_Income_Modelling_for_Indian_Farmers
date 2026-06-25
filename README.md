@@ -103,6 +103,8 @@ Final Model
 ├── Farmer_Income_Prediction.ipynb
 ├── Presentation.pdf
 ├── README.md
+├──auto_eda_trilytics.ipynb
+├──trilytics_nb_(6).ipynb
 └── requirements.txt
 ```
 
