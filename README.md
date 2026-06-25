@@ -11,6 +11,8 @@ Developed an end-to-end machine learning pipeline to predict the annual income o
 Accurate estimation of farmer income is essential for credit assessment, loan disbursement, and financial inclusion. The objective was to build a regression model capable of predicting farmer income from structured tabular data while minimizing Mean Absolute Percentage Error (MAPE).
 
 ---
+## Data set
+Link for dataset - https://drive.google.com/drive/folders/1Wp1eGu2eOkXZdKvzBQIF-AfTC0XxabpD
 
 ## Tech Stack
 
